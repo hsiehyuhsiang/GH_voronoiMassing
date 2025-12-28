@@ -1,5 +1,5 @@
 # GH_voronoiMassing
-
+![preview](shot.png)
 A Grasshopper (`.gh`) definition for generating random Voronoi-based massing geometry.
 
 This repository serves as a geometry preparation stage for the
