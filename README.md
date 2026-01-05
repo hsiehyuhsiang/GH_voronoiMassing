@@ -1,7 +1,7 @@
 # GH_voronoiMassing
 ![preview](shot.png)
 A Grasshopper (`.gh`) definition for generating random Voronoi-based massing geometry.
-requires rhino 8 to run python3 component
+- requires rhino 8 to run python3 component
 This repository serves as a geometry preparation stage for the
 [CFD_automation](https://github.com/hsiehyuhsiang/CFD_automation) pipeline.
 
